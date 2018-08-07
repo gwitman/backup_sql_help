@@ -114,5 +114,5 @@ mysql -h atlxp.net -u atlxp_atlxp1 -p atlxp_atlxp < atlxp_atlxp_backup001.sql   
 --usuario: 	gecocr
 --password: gecocr$2018
 --------------------------------------------------
-mysqldump.exe -h gecocr.com -u gecocr_gecocr -p gecocr_gecocr > gecocr_gecocr_backup001.sql
-mysql -h gecocr.com -u gecocr_gecocr -p gecocr_gecocr < gecocr_gecocr_backup001.sql
+mysqldump.exe -h gecocr.com -u gecocr_gecocr -p gecocr_gecocr > ../backup_costa_rica/gecocr_gecocr_backup001.sql
+mysql -h gecocr.com -u gecocr_gecocr -p gecocr_gecocr < ../backup_costa_rica/gecocr_gecocr_backup001.sql
