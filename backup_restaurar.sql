@@ -91,4 +91,28 @@ mysql -h mercadeoonline.net -u mercadeo_online -p mercadeo_online < mercadeo_onl
 
 --password: 	atlxp1..2017
 mysqldump.exe -h atlxp.net -u atlxp_atlxp1 -p atlxp_atlxp > atlxp_atlxp_backup001.sql
-mysql -h atlxp.net -u atlxp_atlxp1 -p atlxp_atlxp < atlxp_atlxp_backup001.sql   
+mysql -h atlxp.net -u atlxp_atlxp1 -p atlxp_atlxp < atlxp_atlxp_backup001.sql   .
+
+
+
+--************************************************
+--Gecocr
+--------------------------------------------------
+--Direcciones
+--cpanel	http://gecocr.com/cpanel
+--wordpress	http://gecocr.com/wp-admin/
+--------------------------------------------------
+--cpanel
+--usuario:	gecocr
+--password: spnLf9Wt@
+--------------------------------------------------
+--base de datos
+--usuario: 	gecocr_gecocr
+--password: gecocr$2018
+--------------------------------------------------
+--usuario wordpress
+--usuario: 	gecocr
+--password: gecocr$2018
+--------------------------------------------------
+mysqldump.exe -h gecocr.com -u gecocr_gecocr -p gecocr_gecocr > gecocr_gecocr_backup001.sql
+mysql -h gecocr.com -u gecocr_gecocr -p gecocr_gecocr < gecocr_gecocr_backup001.sql
