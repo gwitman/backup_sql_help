@@ -6,11 +6,11 @@
 --wordpress	http://motivamoscr.com/nueva2/wp-admin/
 --theme: http://wp.jmstheme.com/minet/product/mauris-felis-nibh-placerat-2/?layout=left
 --------------------------------------------------
---cpanel
---usuario:	fademsa
---password: Bf5ttwpw
+--cpanel 
+--usuario:	fademsa 
+--password: Bf5ttwpw   
 --------------------------------------------------
---base de datos
+--base de datos  
 --usuario: 	fademsa_nueva2
 --password: motivamoscr$2018
 --------------------------------------------------
