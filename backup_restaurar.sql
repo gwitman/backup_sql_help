@@ -1,3 +1,4 @@
+Mi ultimo cambio
 --************************************************
 --fademsa
 --------------------------------------------------
@@ -14,8 +15,8 @@
 --usuario: 	fademsa_nueva2
 --password: motivamoscr$2018
 --------------------------------------------------
---usuario wordpress
---usuario: 	motivamoscr
+--usuario wordpress 
+--usuario: 	motivamoscr 
 --password: motivamoscr$2018
 --------------------------------------------------
 mysqldump.exe -h motivamoscr.com -u fademsa_nueva2 -p fademsa_nueva2 > fademsa_nueva2_backup015.sql
