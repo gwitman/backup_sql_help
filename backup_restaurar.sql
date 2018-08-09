@@ -4,7 +4,7 @@
 --Direcciones
 --cpanel	motivamoscr.com/cpanel
 --wordpress	http://motivamoscr.com/nueva2/wp-admin/
---theme: http://wp.jmstheme.com/minet/product/mauris-felis-nibh-placerat-2/?layout=left
+--theme:    http://wp.jmstheme.com/minet/product/mauris-felis-nibh-placerat-2/?layout=left
 --------------------------------------------------
 --cpanel 
 --usuario:	fademsa 
