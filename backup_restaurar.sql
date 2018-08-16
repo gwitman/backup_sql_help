@@ -42,8 +42,8 @@ mysql -h motivamoscr.com -u fademsa_nueva2 -p fademsa_nueva2 < fademsa_nueva2_ba
 --usuario: 	kionueva
 --password: roca..2018
 --------------------------------------------------
-mysqldump.exe -h proyectosmercadeoonline.com -u proyecto_kio2use -p proyecto_kio2 > ../backup_costa_rica/proyecto_kio2_backup031.sql
-mysql -h proyectosmercadeoonline.com -u proyecto_kio2use -p proyecto_kio2 < ../backup_costa_rica/proyecto_kio2_backup031.sql
+mysqldump.exe -h proyectosmercadeoonline.com -u proyecto_kio2use -p proyecto_kio2 > ../backup_costa_rica/proyecto_kio2_backup032.sql
+mysql -h proyectosmercadeoonline.com -u proyecto_kio2use -p proyecto_kio2 < ../backup_costa_rica/proyecto_kio2_backup032.sql
 
 
 --************************************************
