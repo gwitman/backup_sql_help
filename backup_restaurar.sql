@@ -116,3 +116,27 @@ mysql -h atlxp.net -u atlxp_atlxp1 -p atlxp_atlxp < atlxp_atlxp_backup001.sql   
 --------------------------------------------------
 mysqldump.exe -h gecocr.com -u gecocr_gecocr -p gecocr_gecocr > ../backup_costa_rica/gecocr_gecocr_backup001.sql
 mysql -h gecocr.com -u gecocr_gecocr -p gecocr_gecocr < ../backup_costa_rica/gecocr_gecocr_backup001.sql
+
+
+
+--************************************************
+--ecocentro
+--------------------------------------------------
+--Direcciones
+--cpanel	
+--wordpress	
+--------------------------------------------------
+--cpanel
+--usuario:	
+--password: 
+--------------------------------------------------
+--base de datos
+--usuario: 	ecocentr_user
+--password: 0KP%3}$!TH-(
+--------------------------------------------------
+--usuario wordpress
+--usuario: 	
+--password: 
+--------------------------------------------------
+mysqldump.exe -h mercadeoonline.net -u ecocentr_user -p ecocentr_eco > ../backup_costa_rica/ecocentr_eco_backup001.sql
+mysql -h mercadeoonline.net -u ecocentr_user -p ecocentr_eco < ../backup_costa_rica/ecocentr_eco_backup001.sql
