@@ -143,17 +143,37 @@ mysql -h mercadeoonline.net -u ecocentr_user -p ecocentr_eco < ../backup_costa_r
 
 --************************************************
 --Colegio whitman
---Sitio http://www.colegiowhitman.com/
---Cpanel http://www.colegiowhitman.com/cpanel
---Usuario cpanel: admwhitman
---Contraseña cpanel: 2017we$08A
---Sitio Admin: colegiowhitman.com/wp-admin
---Usuario Admin; admwhitman
---Password Admin: 2017we$08A
+--Sitio                http://www.colegiowhitman.com/
+--Cpanel               http://www.colegiowhitman.com/cpanel
+--Usuario cpanel:      admwhitman
+--Contraseña cpanel:   2017we$08A
+--Sitio Admin:         colegiowhitman.com/wp-admin
+--Usuario Admin;       admwhitman
+--Password Admin:      2017we$08A
 
 
---Migrar a; sewhitman.ed.cr/cpanel 
---Migrar a: http://mercadeoonline.net:2082/cpsess5867431495/frontend/paper_lantern/index.html?login=1&post_login=26026153874453
---Usuario; whitmaned
---Contraseña: rXX6T¡kzJ2018?
+--Migrar a;            sewhitman.ed.cr/cpanel 
+--Migrar a:            http://mercadeoonline.net:2082/cpsess5867431495/frontend/paper_lantern/index.html?login=1&post_login=26026153874453
+--Usuario;             whitmaned
+--Contraseña:          rXX6T¡kzJ2018?
 -------------------------------------------------- 
+
+
+
+--************************************************
+--Colegio vilaseca
+--Sitio                 http://colegiovilaseca.com/
+--Cpanel                http://colegiovilaseca.com:2082/
+--Usuario cpanel:       colegiovilaseca
+--Contraseña cpanel:    P8pJJn9r
+
+--Sitio Admin: 
+--Usuario Admin; 
+--Password Admin: 
+
+
+--Migrar a; 
+--Migrar a: 
+--Usuario:    
+--Contraseña: 
+--------------------------------------------------
