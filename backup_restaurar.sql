@@ -18,8 +18,8 @@
 --usuario: 	motivamoscr 
 --password: motivamoscr$2018
 --------------------------------------------------
-mysqldump.exe -h motivamoscr.com -u fademsa_nueva2 -p fademsa_nueva2 > ./../backup_costa_rica/fademsa_nueva2_backup018.sql
-mysql -h motivamoscr.com -u fademsa_nueva2 -p fademsa_nueva2 < ./../backup_costa_rica/fademsa_nueva2_backup018.sql
+mysqldump.exe -h motivamoscr.com -u fademsa_nueva2 -p fademsa_nueva2 > ./../backup_costa_rica/fademsa_nueva2_backup019.sql
+mysql -h motivamoscr.com -u fademsa_nueva2 -p fademsa_nueva2 < ./../backup_costa_rica/fademsa_nueva2_backup019.sql
 
  
 
