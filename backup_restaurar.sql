@@ -165,7 +165,7 @@ mysql -h mercadeoonline.net -u ecocentr_user -p ecocentr_eco < ../backup_costa_r
 --Sitio                 http://colegiovilaseca.com/
 --Cpanel                http://colegiovilaseca.com:2082/
 --Usuario cpanel:       colegiovilaseca
---Contraseña cpanel:    P8pJJn9r
+--Contraseña cpanel:    TmQAZQXh4pe4AHfA
 
 --Sitio Admin: 
 --Usuario Admin; 
