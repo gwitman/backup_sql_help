@@ -168,8 +168,8 @@ mysql -h mercadeoonline.net -u ecocentr_user -p ecocentr_eco < ../backup_costa_r
 --Contraseña cpanel:    TmQAZQXh4pe4AHfA
 
 --Sitio Admin: 
---Usuario Admin; 
---Password Admin: 
+--Usuario Admin;   publicadmin
+--Password Admin:  12345
 
 
 --Migrar a; 
