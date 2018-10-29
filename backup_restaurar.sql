@@ -190,6 +190,6 @@ mysql -h mercadeoonline.net -u ecocentr_user -p ecocentr_eco < ../backup_costa_r
 
 --Direccion:       http://mavsk.com/paginanueva/wp-admin
 --Sitio Admin: 
---Usuario Admin;   Q7DqM50uV!gV!zuU*@
---Password Admin:  admin2018
+--Usuario Admin;   admin2018
+--Password Admin:  Q7DqM50uV!gV!zuU*@
 -------------------------------------------------- 
