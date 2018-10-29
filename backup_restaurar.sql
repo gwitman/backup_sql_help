@@ -180,3 +180,16 @@ mysql -h mercadeoonline.net -u ecocentr_user -p ecocentr_eco < ../backup_costa_r
 --Usuario wp:    colegiov_villa
 --Contraseña wp: Ad%fXVgciKhThg1Lyr
 --------------------------------------------------
+
+
+--************************************************
+--Sitio                 http://mavsk.com/
+--Cpanel                http://mavsk.com:2082/
+--Usuario cpanel:       mavsk
+--Contraseña cpanel:    6VnqXgun@
+
+--Direccion:       http://mavsk.com/paginanueva/wp-admin
+--Sitio Admin: 
+--Usuario Admin;   Q7DqM50uV!gV!zuU*@
+--Password Admin:  admin2018
+-------------------------------------------------- 
