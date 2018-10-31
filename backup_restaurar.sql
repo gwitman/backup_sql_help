@@ -173,12 +173,16 @@ mysql -h mercadeoonline.net -u ecocentr_user -p ecocentr_eco < ../backup_costa_r
 
 
 --Migrar a; http://colegiovilaseca.com/desarrollo_002/
---Migrar a:
+--Sitio Admin: 
+--Usuario Admin;   4dm1n_V1ll4
+--Password Admin:  12345
+
+--DB Nombre:    colegiov_desarrollo_002
 --Usuario bd:   colegiov_villa
 --Passwrod bd:  colegioV
 
---Usuario wp:    colegiov_villa
---Contraseña wp: Ad%fXVgciKhThg1Lyr
+mysqldump.exe -h colegiovilaseca.com -u colegiov_villa -p colegiov_desarrollo_002 > ../backup_costa_rica/colegiov_desarrollo_002_backup001.sql
+mysql -h colegiovilaseca.com -u colegiov_villa -p colegiov_desarrollo_002 < ../backup_costa_rica/colegiov_desarrollo_002_backup001.sql
 --------------------------------------------------
 
 
