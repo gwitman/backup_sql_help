@@ -181,7 +181,7 @@ mysql -h mercadeoonline.net -u ecocentr_user -p ecocentr_eco < ../backup_costa_r
 --Usuario bd:   colegiov_villa
 --Passwrod bd:  colegioV
 
-mysqldump.exe -h colegiovilaseca.com -u colegiov_villa -p colegiov_desarrollo_002 > ../backup_costa_rica/colegiov_desarrollo_002_backup001.sql
+mysqldump.exe -h colegiovilaseca.com -u colegiov_villa -p colegiov_desarrollo_002 > ../backup_costa_rica/colegiov_desarrollo_002_backup_2018_11_09_002.sql
 mysql -h colegiovilaseca.com -u colegiov_villa -p colegiov_desarrollo_002 < ../backup_costa_rica/colegiov_desarrollo_002_backup001.sql
 --------------------------------------------------
 
