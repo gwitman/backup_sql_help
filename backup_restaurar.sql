@@ -21,7 +21,20 @@
 mysqldump.exe -h motivamoscr.com -u fademsa_nueva2 -p fademsa_nueva2 > ./../backup_costa_rica/fademsa_nueva2_backup020.sql
 mysql -h motivamoscr.com -u fademsa_nueva2 -p fademsa_nueva2 < ./../backup_costa_rica/fademsa_nueva2_backup020.sql
 
- 
+
+--***********************************************
+--kio produccion:  http://kiosalonyspa.com/
+-------------------------------------------------
+--cpanel: usuario:   solonyspa
+--cpanel: password:  OoQDogvZtTUZvLusJQEM
+
+--base de datos: solonysp_kio2
+--base de datos usuario: solonysp_kio2_p
+--base de datos contaseña:  SoloKio2.T@
+
+--wordpress usuario:  AdminKio
+--wordpress password: Admin.12.@ 
+
 
 --************************************************
 --kio
