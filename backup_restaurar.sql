@@ -35,6 +35,8 @@ mysql -h motivamoscr.com -u fademsa_nueva2 -p fademsa_nueva2 < ./../backup_costa
 --wordpress usuario:  AdminKio
 --wordpress password: Admin.12.@ 
 
+mysqldump.exe -h kiosalonyspa.com -u solonysp_kio2_p -p solonysp_kio2 > ../backup_costa_rica/solonysp_kio2_backup_2018_11_15_002.sql
+mysql -h kiosalonyspa.com -u solonysp_kio2_p -p solonysp_kio2 < ../backup_costa_rica/solonysp_kio2_backup_2018_11_15_002.sql
 
 --************************************************
 --kio
